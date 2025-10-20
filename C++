@@ -1,0 +1,20 @@
+
+///Lesson No..1
+// Coding part of .............
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "Hello, World!" << endl;
+    return 0;
+}
+
+
+
+// explanation ..................
+1..#include <iostream> →  this allows input/output functionality in our code.
+2..main() → entry point of every C++ program this is starting point of prpgram.
+3..cout → prints output to the console.
+4..endl → ends the line.
+5.. int-> Int define type of data in this section int means "Integer".
